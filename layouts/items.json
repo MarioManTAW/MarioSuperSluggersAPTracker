@@ -1,0 +1,170 @@
+{
+	"shared_item_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "0,0",
+						"item_size": 5,
+						"h_alignment": "left",
+						"rows": [
+							[
+								"mario",
+								"peach",
+								"yoshi",
+								"donkey_kong",
+								"wario"
+							],
+							[
+								"blue_green_noki",
+								"daisy_statue",
+								"stone_tablet",
+								"characters",
+								"day_night"
+							],
+							[
+								"sea_hut_key",
+								"toad_statue",
+								"rattle",
+								"brush",
+								"mini_boo_boo"
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "0,0",
+						"item_size": 3,
+						"h_alignment": "left",
+						"rows": [
+							[
+								"luigi",
+								"daisy",
+								"blue_yoshi",
+								"light_blue_yoshi",
+								"pink_yoshi",
+								"red_yoshi",
+								"yellow_yoshi",
+								"birdo",
+								"diddy_kong",
+								"waluigi"
+							],
+							[
+								"baby_mario",
+								"baby_luigi",
+								"baby_peach",
+								"baby_daisy",
+								"baby_dk",
+								"goomba",
+								"paragoomba",
+								"koopa",
+								"red_koopa",
+								"paratroopa"
+							],
+							[
+								"green_paratroopa",
+								"red_toad",
+								"blue_toad",
+								"green_toad",
+								"purple_toad",
+								"yellow_toad",
+								"toadette",
+								"toadsworth",
+								"shy_guy",
+								"blue_shy_guy"
+							],
+							[
+								"gray_shy_guy",
+								"green_shy_guy",
+								"yellow_shy_guy",
+								"boo",
+								"king_boo",
+								"blue_pianta",
+								"red_pianta",
+								"yellow_pianta",
+								"blue_noki",
+								"green_noki"
+							],
+							[
+								"red_noki",
+								"monty_mole",
+								"blooper",
+								"petey_piranha",
+								"wiggler",
+								"dixie_kong",
+								"funky_kong",
+								"tiny_kong",
+								"king_k_rool",
+								"kritter"
+							],
+							[
+								"blue_kritter",
+								"brown_kritter",
+								"red_kritter"
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "group",
+				"header": "Settings",
+				"content": {
+					"type": "itemgrid",
+					"item_size": 6,
+					"rows": [["goal_characters"]]
+				}
+			}
+		]
+	},
+	"broadcast_item_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "0,0",
+						"item_size": 5,
+						"h_alignment": "left",
+						"rows": [
+							[
+								"mario",
+								"peach",
+								"yoshi",
+								"donkey_kong",
+								"wario"
+							],
+							[
+								"blue_green_noki",
+								"daisy_statue",
+								"stone_tablet",
+								"characters",
+								"day_night"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}

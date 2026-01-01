@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Goal Characters",
+		"type": "consumable",
+		"img": "images/items/buddy.png",
+		"initial_quantity": 30,
+		"min_quantity": 9,
+		"max_quantity": 58,
+		"increment": 1,
+		"codes": "goal_characters"
+	}
+]

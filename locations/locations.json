@@ -1,0 +1,619 @@
+[
+	{
+		"name": "Baseball Kingdom",
+		"children": [
+			{
+				"name": "Mario Stadium",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 330,
+						"y": 540
+					}
+				],
+				"sections": [
+					{
+						"name": "Recruit Luigi",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Blue Noki",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Blue Pianta",
+						"item_count": 1,
+						"access_rules": ["sea_hut_key"]
+					},
+					{
+						"name": "Recruit Red Pianta",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Recruit Yellow Pianta",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Recruit Green Noki",
+						"item_count": 1,
+						"access_rules": ["blue_noki"]
+					},
+					{
+						"name": "Recruit Monty Mole",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Left barrel after Yellow Pianta",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Top barrel",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Bottom bush",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Top bush",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Central tree after Red Pianta",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Top tree",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Recruit Red Noki",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki"]
+					},
+					{
+						"name": "Red Noki's gift",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki"]
+					},
+					{
+						"name": "Recruit Baby Luigi",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki"]
+					},
+					{
+						"name": "Recruit Baby Mario",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki"]
+					},
+					{
+						"name": "Sea Hut Key",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki"]
+					},
+					{
+						"name": "Recruit Blooper",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki,peach"]
+					},
+					{
+						"name": "Chest",
+						"item_count": 1,
+						"access_rules": ["blue_noki,green_noki,mario,wario"]
+					}
+				]
+			},
+			{
+				"name": "Peach Ice Garden",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 280,
+						"y": 250
+					}
+				],
+				"sections": [
+					{
+						"name": "Recruit Toadette",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Daisy Statue",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Red Toad",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Green Toad",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Recruit Purple Toad",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Top bush",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Left bush after Green Toad",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Bottom bush",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Right bush after Purple Toad",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Recruit Baby Peach",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Top topiary after Toad Statue",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Left topiary after Baby Peach",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Right topiary",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Toad Statue",
+						"item_count": 1,
+						"access_rules": ["peach"]
+					},
+					{
+						"name": "Recruit Toadsworth",
+						"item_count": 1,
+						"access_rules": ["daisy_statue"]
+					},
+					{
+						"name": "Recruit Peach",
+						"item_count": 1,
+						"access_rules": ["daisy_statue"]
+					},
+					{
+						"name": "Recruit Blue Toad",
+						"item_count": 1,
+						"access_rules": ["daisy_statue"]
+					},
+					{
+						"name": "Recruit Daisy",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,toad_statue"]
+					},
+					{
+						"name": "Recruit Petey Piranha",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,peach"]
+					},
+					{
+						"name": "Recruit Yellow Toad",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,peach"]
+					},
+					{
+						"name": "Recruit Baby Daisy",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,rattle"]
+					},
+					{
+						"name": "Chest",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,rattle,wario"]
+					},
+					{
+						"name": "Right mushroom after Yellow Toad",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,peach"]
+					},
+					{
+						"name": "Top mushroom",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,peach"]
+					},
+					{
+						"name": "Baby Daisy's Rattle",
+						"item_count": 1,
+						"access_rules": ["daisy_statue,yoshi,wario"]
+					}
+				]
+			},
+			{
+				"name": "DK Jungle",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 1010,
+						"y": 240
+					}
+				],
+				"sections": [
+					{
+						"name": "Stone tablet piece behind exit sign",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Dixie Kong",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Donkey Kong",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Top flowers near entrance",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Tree near shop",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Tree near Dixie Kong",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Bottom flowers near entrance",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Flowers near bridge",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Flowers below central tree",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Flowers near Funky Kong",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,mario"]
+					},
+					{
+						"name": "Recruit Funky Kong",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Stone tablet piece near Funky Kong",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Barrel after Blue Kritter",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Stone tablet piece in central flower",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Flowers below entrance",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,mario"]
+					},
+					{
+						"name": "Recruit Baby DK",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,yoshi"]
+					},
+					{
+						"name": "Tree below entrance after Baby DK",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,yoshi"]
+					},
+					{
+						"name": "Recruit Diddy Kong",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3"]
+					},
+					{
+						"name": "Recruit Tiny Kong",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3"]
+					},
+					{
+						"name": "Recruit Kritter",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario"]
+					},
+					{
+						"name": "Recruit Blue Kritter",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario"]
+					},
+					{
+						"name": "Recruit Red Kritter",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario"]
+					},
+					{
+						"name": "Recruit Brown Kritter",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario"]
+					},
+					{
+						"name": "Recruit King K. Rool",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario"]
+					},
+					{
+						"name": "Chest",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,stone_tablet_3,mario,wario"]
+					}
+				]
+			},
+			{
+				"name": "Wario City",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 900,
+						"y": 400
+					}
+				],
+				"sections": [
+					{
+						"name": "Recruit Goomba",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Paratroopa",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Paragoomba",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Recruit Green Paratroopa",
+						"item_count": 1,
+						"access_rules": ["brush"]
+					},
+					{
+						"name": "Central tree",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Right tree after Paragoomba",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Trash can near entrance",
+						"item_count": 1,
+						"access_rules": ["wario"]
+					},
+					{
+						"name": "Trash can near dynamo",
+						"item_count": 1,
+						"access_rules": ["wario"]
+					},
+					{
+						"name": "Top tree",
+						"item_count": 1,
+						"access_rules": ["yoshi"]
+					},
+					{
+						"name": "Recruit Wario",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Recruit Red Koopa",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Recruit Koopa",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,peach"]
+					},
+					{
+						"name": "Recruit Boo",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,wario"]
+					},
+					{
+						"name": "Recruit Waluigi",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,wario,yoshi"]
+					},
+					{
+						"name": "Chest",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,wario,yoshi"]
+					},
+					{
+						"name": "Recruit King Boo",
+						"item_count": 1,
+						"access_rules": ["donkey_kong,boo,mini_boo"]
+					}
+				]
+			},
+			{
+				"name": "Yoshi Park",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 840,
+						"y": 510
+					}
+				],
+				"sections": [
+					{
+						"name": "Recruit Shy Guy",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Blue Shy Guy",
+						"item_count": 1,
+						"access_rules": []
+					},
+					{
+						"name": "Recruit Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Recruit Red Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,brush"]
+					},
+					{
+						"name": "Recruit Light Blue Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario"]
+					},
+					{
+						"name": "Recruit Blue Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Recruit Wiggler",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Toy Field Pass",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Recruit Pink Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Tree near shop after Pink Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Recruit Yellow Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Tree near Birdo after Yellow Yoshi",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Tree near Bowser Jr.",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Recruit Green Shy Guy",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi,peach"]
+					},
+					{
+						"name": "Recruit Gray Shy Guy",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi,peach"]
+					},
+					{
+						"name": "Left stump after Shy Guys",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi,peach"]
+					},
+					{
+						"name": "Right stump after Shy Guys",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi,peach"]
+					},
+					{
+						"name": "Recruit Birdo",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Recruit Yellow Shy Guy",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi"]
+					},
+					{
+						"name": "Chest",
+						"item_count": 1,
+						"access_rules": ["mario,yoshi,wario"]
+					}
+				]
+			},
+			{
+				"name": "Bowser Jr. Playroom/Bowser Castle",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 640,
+						"y": 180
+					}
+				],
+				"sections": [
+					{
+						"name": "Unlock night mode",
+						"item_count": 1,
+						"access_rules": ["$characters"]
+					},
+					{
+						"name": "Defeat Bowser Monsters",
+						"item_count": 1,
+						"access_rules": ["$characters,day_night"]
+					}
+				]
+			}
+		]
+	}
+]

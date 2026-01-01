@@ -1,0 +1,493 @@
+[
+	{
+		"name": "Mario",
+		"type": "toggle",
+		"img": "images/items/mario.png",
+		"codes": "mario"
+	},
+	{
+		"name": "Peach",
+		"type": "toggle",
+		"img": "images/items/peach.png",
+		"codes": "peach"
+	},
+	{
+		"name": "Yoshi",
+		"type": "toggle",
+		"img": "images/items/yoshi.png",
+		"codes": "yoshi"
+	},
+	{
+		"name": "Donkey Kong",
+		"type": "toggle",
+		"img": "images/items/donkey_kong.png",
+		"codes": "donkey_kong"
+	},
+	{
+		"name": "Wario",
+		"type": "toggle",
+		"img": "images/items/wario.png",
+		"codes": "wario"
+	},
+	{
+		"name": "Luigi",
+		"type": "toggle",
+		"img": "images/items/luigi.png",
+		"codes": "luigi"
+	},
+	{
+		"name": "Daisy",
+		"type": "toggle",
+		"img": "images/items/daisy.png",
+		"codes": "daisy"
+	},
+	{
+		"name": "Blue Yoshi",
+		"type": "toggle",
+		"img": "images/items/blue_yoshi.png",
+		"codes": "blue_yoshi"
+	},
+	{
+		"name": "Light Blue Yoshi",
+		"type": "toggle",
+		"img": "images/items/light_blue_yoshi.png",
+		"codes": "light_blue_yoshi"
+	},
+	{
+		"name": "Pink Yoshi",
+		"type": "toggle",
+		"img": "images/items/pink_yoshi.png",
+		"codes": "pink_yoshi"
+	},
+	{
+		"name": "Red Yoshi",
+		"type": "toggle",
+		"img": "images/items/red_yoshi.png",
+		"codes": "red_yoshi"
+	},
+	{
+		"name": "Yellow Yoshi",
+		"type": "toggle",
+		"img": "images/items/yellow_yoshi.png",
+		"codes": "yellow_yoshi"
+	},
+	{
+		"name": "Birdo",
+		"type": "toggle",
+		"img": "images/items/birdo.png",
+		"codes": "birdo"
+	},
+	{
+		"name": "Diddy Kong",
+		"type": "toggle",
+		"img": "images/items/diddy_kong.png",
+		"codes": "diddy_kong"
+	},
+	{
+		"name": "Waluigi",
+		"type": "toggle",
+		"img": "images/items/waluigi.png",
+		"codes": "waluigi"
+	},
+	{
+		"name": "Baby Mario",
+		"type": "toggle",
+		"img": "images/items/baby_mario.png",
+		"codes": "baby_mario"
+	},
+	{
+		"name": "Baby Luigi",
+		"type": "toggle",
+		"img": "images/items/baby_luigi.png",
+		"codes": "baby_luigi"
+	},
+	{
+		"name": "Baby Peach",
+		"type": "toggle",
+		"img": "images/items/baby_peach.png",
+		"codes": "baby_peach"
+	},
+	{
+		"name": "Baby Daisy",
+		"type": "toggle",
+		"img": "images/items/baby_daisy.png",
+		"codes": "baby_daisy"
+	},
+	{
+		"name": "Baby DK",
+		"type": "toggle",
+		"img": "images/items/baby_dk.png",
+		"codes": "baby_dk"
+	},
+	{
+		"name": "Goomba",
+		"type": "toggle",
+		"img": "images/items/goomba.png",
+		"codes": "goomba"
+	},
+	{
+		"name": "Paragoomba",
+		"type": "toggle",
+		"img": "images/items/paragoomba.png",
+		"codes": "paragoomba"
+	},
+	{
+		"name": "Koopa",
+		"type": "toggle",
+		"img": "images/items/koopa.png",
+		"codes": "koopa"
+	},
+	{
+		"name": "Red Koopa",
+		"type": "toggle",
+		"img": "images/items/red_koopa.png",
+		"codes": "red_koopa"
+	},
+	{
+		"name": "Paratroopa",
+		"type": "toggle",
+		"img": "images/items/paratroopa.png",
+		"codes": "paratroopa"
+	},
+	{
+		"name": "Green Paratroopa",
+		"type": "toggle",
+		"img": "images/items/green_paratroopa.png",
+		"codes": "green_paratroopa"
+	},
+	{
+		"name": "Red Toad",
+		"type": "toggle",
+		"img": "images/items/red_toad.png",
+		"codes": "red_toad"
+	},
+	{
+		"name": "Blue Toad",
+		"type": "toggle",
+		"img": "images/items/blue_toad.png",
+		"codes": "blue_toad"
+	},
+	{
+		"name": "Green Toad",
+		"type": "toggle",
+		"img": "images/items/green_toad.png",
+		"codes": "green_toad"
+	},
+	{
+		"name": "Purple Toad",
+		"type": "toggle",
+		"img": "images/items/purple_toad.png",
+		"codes": "purple_toad"
+	},
+	{
+		"name": "Yellow Toad",
+		"type": "toggle",
+		"img": "images/items/yellow_toad.png",
+		"codes": "yellow_toad"
+	},
+	{
+		"name": "Toadette",
+		"type": "toggle",
+		"img": "images/items/toadette.png",
+		"codes": "toadette"
+	},
+	{
+		"name": "Toadsworth",
+		"type": "toggle",
+		"img": "images/items/toadsworth.png",
+		"codes": "toadsworth"
+	},
+	{
+		"name": "Shy Guy",
+		"type": "toggle",
+		"img": "images/items/shy_guy.png",
+		"codes": "shy_guy"
+	},
+	{
+		"name": "Blue Shy Guy",
+		"type": "toggle",
+		"img": "images/items/blue_shy_guy.png",
+		"codes": "blue_shy_guy"
+	},
+	{
+		"name": "Gray Shy Guy",
+		"type": "toggle",
+		"img": "images/items/gray_shy_guy.png",
+		"codes": "gray_shy_guy"
+	},
+	{
+		"name": "Green Shy Guy",
+		"type": "toggle",
+		"img": "images/items/green_shy_guy.png",
+		"codes": "green_shy_guy"
+	},
+	{
+		"name": "Yellow Shy Guy",
+		"type": "toggle",
+		"img": "images/items/yellow_shy_guy.png",
+		"codes": "yellow_shy_guy"
+	},
+	{
+		"name": "Boo",
+		"type": "toggle",
+		"img": "images/items/boo.png",
+		"codes": "boo"
+	},
+	{
+		"name": "King Boo",
+		"type": "toggle",
+		"img": "images/items/king_boo.png",
+		"codes": "king_boo"
+	},
+	{
+		"name": "Blue Pianta",
+		"type": "toggle",
+		"img": "images/items/blue_pianta.png",
+		"codes": "blue_pianta"
+	},
+	{
+		"name": "Red Pianta",
+		"type": "toggle",
+		"img": "images/items/red_pianta.png",
+		"codes": "red_pianta"
+	},
+	{
+		"name": "Yellow Pianta",
+		"type": "toggle",
+		"img": "images/items/yellow_pianta.png",
+		"codes": "yellow_pianta"
+	},
+	{
+		"name": "Blue Noki",
+		"type": "toggle",
+		"img": "images/items/blue_noki.png",
+		"codes": "blue_noki"
+	},
+	{
+		"name": "Green Noki",
+		"type": "toggle",
+		"img": "images/items/green_noki.png",
+		"codes": "green_noki"
+	},
+	{
+		"name": "Red Noki",
+		"type": "toggle",
+		"img": "images/items/red_noki.png",
+		"codes": "red_noki"
+	},
+	{
+		"name": "Monty Mole",
+		"type": "toggle",
+		"img": "images/items/monty_mole.png",
+		"codes": "monty_mole"
+	},
+	{
+		"name": "Blooper",
+		"type": "toggle",
+		"img": "images/items/blooper.png",
+		"codes": "blooper"
+	},
+	{
+		"name": "Petey Piranha",
+		"type": "toggle",
+		"img": "images/items/petey_piranha.png",
+		"codes": "petey_piranha"
+	},
+	{
+		"name": "Wiggler",
+		"type": "toggle",
+		"img": "images/items/wiggler.png",
+		"codes": "wiggler"
+	},
+	{
+		"name": "Dixie Kong",
+		"type": "toggle",
+		"img": "images/items/dixie_kong.png",
+		"codes": "dixie_kong"
+	},
+	{
+		"name": "Funky Kong",
+		"type": "toggle",
+		"img": "images/items/funky_kong.png",
+		"codes": "funky_kong"
+	},
+	{
+		"name": "Tiny Kong",
+		"type": "toggle",
+		"img": "images/items/tiny_kong.png",
+		"codes": "tiny_kong"
+	},
+	{
+		"name": "King K. Rool",
+		"type": "toggle",
+		"img": "images/items/king_k_rool.png",
+		"codes": "king_k_rool"
+	},
+	{
+		"name": "Kritter",
+		"type": "toggle",
+		"img": "images/items/kritter.png",
+		"codes": "kritter"
+	},
+	{
+		"name": "Blue Kritter",
+		"type": "toggle",
+		"img": "images/items/blue_kritter.png",
+		"codes": "blue_kritter"
+	},
+	{
+		"name": "Brown Kritter",
+		"type": "toggle",
+		"img": "images/items/brown_kritter.png",
+		"codes": "brown_kritter"
+	},
+	{
+		"name": "Red Kritter",
+		"type": "toggle",
+		"img": "images/items/red_kritter.png",
+		"codes": "red_kritter"
+	},
+	{
+		"name": "Characters",
+		"type": "consumable",
+		"allow_disabled": false,
+		"img": "images/items/buddy.png",
+		"initial_quantity": 0,
+		"min_quantity": 0,
+		"max_quantity": 58,
+		"increment": 1,
+		"codes": "characters"
+	},
+	{
+		"name": "Day-night cycle",
+		"type": "toggle",
+		"img": "images/items/moon.png",
+		"disabled_img": "images/items/sun.png",
+		"disabled_img_mods": "",
+		"codes": "day_night"
+	},
+	{
+		"name": "Sea Hut Key",
+		"type": "toggle",
+		"img": "images/items/sea_hut_key.png",
+		"codes": "sea_hut_key"
+	},
+	{
+		"name": "Baby Daisy's Rattle",
+		"type": "toggle",
+		"img": "images/items/rattle.png",
+		"codes": "rattle"
+	},
+	{
+		"name": "Toad Statue",
+		"type": "toggle",
+		"img": "images/items/toad_statue.png",
+		"codes": "toad_statue"
+	},
+	{
+		"name": "Daisy Statue",
+		"type": "toggle",
+		"img": "images/items/daisy_statue.png",
+		"codes": "daisy_statue"
+	},
+	{
+		"name": "Stone Tablet",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": false,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"img": "images/items/stone_tablet3.png",
+				"img_mods": "grey",
+				"codes": "stone_tablet",
+				"inherit_codes": true
+			},
+			{
+				"img": "images/items/stone_tablet1.png",
+				"codes": "stone_tablet_1",
+				"inherit_codes": true
+			},
+			{
+				"img": "images/items/stone_tablet2.png",
+				"codes": "stone_tablet_2",
+				"inherit_codes": true
+			},
+			{
+				"img": "images/items/stone_tablet3.png",
+				"codes": "stone_tablet_3",
+				"inherit_codes": true
+			}
+		]
+	},
+	{
+		"name": "Brush",
+		"type": "toggle",
+		"img": "images/items/brush.png",
+		"codes": "brush"
+	},
+	{
+		"name": "Mini Boo",
+		"type": "toggle",
+		"img": "images/items/mini_boo.png",
+		"codes": "mini_boo"
+	},
+	{
+		"name": "Blue/Green Noki",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/__noki.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue__noki.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/_green_noki.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_green_noki.png"
+			}
+		],
+		"item_left": "blue_noki",
+		"item_right": "green_noki",
+		"codes": "blue_green_noki"
+	},
+	{
+		"name": "Boo/Mini Boo",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/_boo.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/__boo.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/mini_.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/mini_boo_boo.png"
+			}
+		],
+		"item_left": "boo",
+		"item_right": "mini_boo",
+		"codes": "mini_boo_boo"
+	}
+]

@@ -1,0 +1,123 @@
+ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+
+LEVEL_UNLOCKS = {}
+
+
+
+CUR_INDEX = -1
+SLOT_DATA = nil
+
+
+function onClear(slot_data)
+	SLOT_DATA = slot_data
+	CUR_INDEX = -1
+
+	for _, v in pairs(ITEM_MAPPING) do
+		if v[1] then
+			local obj = Tracker:FindObjectForCode(v[1])
+			if obj then
+				if v[2] == "toggle" then
+					obj.Active = false
+				elseif v[2] == "progressive" then
+					if obj.Active then
+						obj.CurrentStage = 0
+					else
+						obj.Active = true
+					end
+				elseif v[2] == "consumable" then
+					obj.AcquiredCount = 0
+				end
+			end
+		end
+	end
+	local c = Tracker:FindObjectForCode("characters")
+	c.AcquiredCount = 0
+	for _, v in pairs(SETTINGS_MAPPING) do
+		if v[1] then
+			local obj = Tracker:FindObjectForCode(v[1])
+			if obj then
+				obj.AcquiredCount = 0
+			end
+		end
+	end
+
+	for _, v in pairs(LOCATION_MAPPING) do
+		for _, loc in ipairs(v) do
+			if loc:sub(1, 1) == "@" then
+				local obj = Tracker:FindObjectForCode(loc)
+				if obj then
+					obj.AvailableChestCount = obj.ChestCount
+				end
+			end
+		end
+	end
+
+	if SLOT_DATA == nil then
+		return
+	end
+
+	if slot_data['goal_characters'] then
+		local goal_characters = Tracker:FindObjectForCode("goal_characters")
+		if goal_characters then
+			goal_characters.AcquiredCount = (slot_data['goal_characters'])
+		end
+	end
+end
+
+function onItem(index, item_id, item_name, player_number)
+	if index <= CUR_INDEX then return end
+	CUR_INDEX = index;
+
+	local v = ITEM_MAPPING[item_id]
+	if not v then
+		return
+	end
+
+	if not v[1] then
+		return
+	end
+
+	local obj = Tracker:FindObjectForCode(v[1])
+	local c = Tracker:FindObjectForCode("characters")
+	if obj and c then
+		if v[2] == "toggle" then
+			if item_id % 0x100 == 2 and not obj.Active then c.AcquiredCount = c.AcquiredCount + c.Increment end
+			obj.Active = true
+		elseif v[2] == "progressive" then
+			if obj.Active then
+				obj.CurrentStage = obj.CurrentStage + 1
+			else
+				obj.Active = true
+			end
+		elseif v[2] == "consumable" then
+			obj.AcquiredCount = obj.AcquiredCount + obj.Increment
+		end
+	end
+end
+
+function onLocation(location_id, location_name)
+	local location_array = LOCATION_MAPPING[location_id]
+	if not location_array or not location_array[1] then
+		print(string.format("onLocation: could not find location mapping for id %s", location_id))
+		return
+	end
+
+	for _, location in pairs(location_array) do
+		local obj = Tracker:FindObjectForCode(location)
+		if obj then
+			if location:sub(1,1) == "@" then
+				obj.AvailableChestCount = obj.AvailableChestCount - 1 
+			else
+				obj.Active = true
+			end
+		else 
+			print(string.format("onLocation: could not find object for code %s", location))
+		end
+	end
+end
+
+
+Archipelago:AddClearHandler("clear handler", onClear)
+Archipelago:AddItemHandler("item handler", onItem)
+Archipelago:AddLocationHandler("location handler", onLocation)
