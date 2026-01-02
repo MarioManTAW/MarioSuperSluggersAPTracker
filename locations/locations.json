@@ -48,7 +48,12 @@
 						"access_rules": ["peach"]
 					},
 					{
-						"name": "Left barrel after Yellow Pianta",
+						"name": "Bottom barrel",
+						"item_count": 1,
+						"access_rules": ["donkey_kong"]
+					},
+					{
+						"name": "Middle barrel after Yellow Pianta",
 						"item_count": 1,
 						"access_rules": ["donkey_kong"]
 					},
