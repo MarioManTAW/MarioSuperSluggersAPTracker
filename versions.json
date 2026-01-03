@@ -1,0 +1,20 @@
+{
+	"versions": [
+		{
+			"package_version": "0.0.1",
+			"download_url": "https://github.com/MarioManTAW/MarioSuperSluggersAPTracker/releases/download/v0.0.1/mss_tracker_0.0.1.zip",
+			"sha256": "a5f0663b633eb621a75d1aca2194719d85ac47fda98cce46c6421bdf14e07a8d",
+			"changelog": [
+				"Added missing barrel in Mario Stadium"
+			]
+		},
+		{
+			"package_version": "0.0.0",
+			"download_url": "https://github.com/MarioManTAW/MarioSuperSluggersAPTracker/archive/refs/tags/v0.0.0.zip",
+			"sha256": "d84e00a2bcd1b2a3d60b7a0c1ac686ad2740ed9c3ead815bb33fce0e45b742c2",
+			"changelog": [
+				"Initial version"
+			]
+		}
+	]
+}
