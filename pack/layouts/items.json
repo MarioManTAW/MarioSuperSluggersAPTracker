@@ -35,6 +35,13 @@
 								"rattle",
 								"brush",
 								"mini_boo_boo"
+							],
+							[
+								"luigi",
+								"luigi_flashlight",
+								"daisy",
+								"cruiser_shop_pass",
+								"toy_field_pass"
 							]
 						]
 					}
@@ -52,8 +59,6 @@
 						"h_alignment": "left",
 						"rows": [
 							[
-								"luigi",
-								"daisy",
 								"blue_yoshi",
 								"light_blue_yoshi",
 								"pink_yoshi",
@@ -61,11 +66,11 @@
 								"yellow_yoshi",
 								"birdo",
 								"diddy_kong",
-								"waluigi"
+								"waluigi",
+								"baby_mario",
+								"baby_luigi"
 							],
 							[
-								"baby_mario",
-								"baby_luigi",
 								"baby_peach",
 								"baby_daisy",
 								"baby_dk",
@@ -73,11 +78,11 @@
 								"paragoomba",
 								"koopa",
 								"red_koopa",
-								"paratroopa"
+								"paratroopa",
+								"green_paratroopa",
+								"red_toad"
 							],
 							[
-								"green_paratroopa",
-								"red_toad",
 								"blue_toad",
 								"green_toad",
 								"purple_toad",
@@ -85,33 +90,28 @@
 								"toadette",
 								"toadsworth",
 								"shy_guy",
-								"blue_shy_guy"
+								"blue_shy_guy",
+								"gray_shy_guy",
+								"green_shy_guy"
 							],
 							[
-								"gray_shy_guy",
-								"green_shy_guy",
 								"yellow_shy_guy",
-								"boo",
 								"king_boo",
 								"blue_pianta",
 								"red_pianta",
 								"yellow_pianta",
-								"blue_noki",
-								"green_noki"
-							],
-							[
 								"red_noki",
 								"monty_mole",
 								"blooper",
 								"petey_piranha",
-								"wiggler",
+								"wiggler"
+							],
+							[
 								"dixie_kong",
 								"funky_kong",
 								"tiny_kong",
 								"king_k_rool",
-								"kritter"
-							],
-							[
+								"kritter",
 								"blue_kritter",
 								"brown_kritter",
 								"red_kritter"
@@ -126,7 +126,7 @@
 				"content": {
 					"type": "itemgrid",
 					"item_size": 6,
-					"rows": [["goal_characters"]]
+					"rows": [["goal_condition", "goal_characters", "shops"]]
 				}
 			}
 		]

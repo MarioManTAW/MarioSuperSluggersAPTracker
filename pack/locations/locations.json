@@ -117,6 +117,77 @@
 						"item_count": 1,
 						"access_rules": ["blue_noki,green_noki,mario,wario"]
 					}
+				],
+				"children": [
+					{
+						"name": "Blue Pianta's shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 380,
+								"y": 540,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_1"],
+						"access_rules": ["[$shops]"],
+						"sections": [
+							{
+								"name": "Buy Luigi's Flashlight",
+								"item_count": 1,
+								"access_rules": ["sea_hut_key,luigi", "cruiser_pass,special_shop_pass,day_night,luigi"]
+							},
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": ["sea_hut_key"]
+							}
+						]
+					}
 				]
 			},
 			{
@@ -253,6 +324,77 @@
 						"name": "Baby Daisy's Rattle",
 						"item_count": 1,
 						"access_rules": ["daisy_statue,yoshi,wario"]
+					}
+				],
+				"children": [
+					{
+						"name": "Toadsworth's shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 330,
+								"y": 250,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_1"],
+						"access_rules": ["daisy_statue,[$shops]"],
+						"sections": [
+							{
+								"name": "Buy Cruiser Pass",
+								"item_count": 1,
+								"access_rules": ["daisy"]
+							},
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							}
+						]
 					}
 				]
 			},
@@ -391,6 +533,64 @@
 						"item_count": 1,
 						"access_rules": ["donkey_kong,stone_tablet_3,mario,wario"]
 					}
+				],
+				"children": [
+					{
+						"name": "Funky Kong's shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 960,
+								"y": 240,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_2"],
+						"access_rules": ["donkey_kong,[$shops]"],
+						"sections": [
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"access_rules": []
+							}
+						]
+					}
 				]
 			},
 			{
@@ -398,7 +598,7 @@
 				"map_locations": [
 					{
 						"map": "baseball_kingdom",
-						"x": 900,
+						"x": 920,
 						"y": 400
 					}
 				],
@@ -483,6 +683,64 @@
 						"item_count": 1,
 						"access_rules": ["donkey_kong,boo,mini_boo"]
 					}
+				],
+				"children": [
+					{
+						"name": "Goomba's shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 870,
+								"y": 400,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_2"],
+						"access_rules": ["[$shops]"],
+						"sections": [
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"access_rules": []
+							}
+						]
+					}
 				]
 			},
 			{
@@ -490,7 +748,7 @@
 				"map_locations": [
 					{
 						"map": "baseball_kingdom",
-						"x": 840,
+						"x": 860,
 						"y": 510
 					}
 				],
@@ -595,6 +853,64 @@
 						"item_count": 1,
 						"access_rules": ["mario,yoshi,wario"]
 					}
+				],
+				"children": [
+					{
+						"name": "Red Yoshi's shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 810,
+								"y": 510,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_2"],
+						"access_rules": ["mario,brush,[$shops]"],
+						"sections": [
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"access_rules": []
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"access_rules": []
+							}
+						]
+					}
 				]
 			},
 			{
@@ -606,16 +922,117 @@
 						"y": 180
 					}
 				],
+				"access_rules": ["$characters"],
 				"sections": [
 					{
 						"name": "Unlock night mode",
 						"item_count": 1,
-						"access_rules": ["$characters"]
+						"access_rules": []
 					},
 					{
 						"name": "Defeat Bowser Monsters",
 						"item_count": 1,
-						"access_rules": ["$characters,day_night"]
+						"access_rules": ["day_night"],
+						"visibility_rules": ["goal_condition_0"]
+					}
+				]
+			},
+			{
+				"name": "Daisy Cruiser",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 250,
+						"y": 410
+					}
+				],
+				"access_rules": ["cruiser_pass"],
+				"children": [
+					{
+						"name": "Secret shop",
+						"map_locations": [
+							{
+								"map": "baseball_kingdom",
+								"x": 350,
+								"y": 410,
+								"size": 20,
+								"border_thickness": 5
+							}
+						],
+						"visibility_rules": ["shops_1"],
+						"access_rules": ["special_shop_pass,day_night,[$shops]"],
+						"sections": [
+							{
+								"ref": "Baseball Kingdom/Mario Stadium/Blue Pianta's shop/Buy Luigi's Flashlight",
+								"name": "Buy Luigi's Flashlight"
+							},
+							{
+								"name": "Buy Nice Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Power Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dr. K",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Lucky Glove",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Dash Spikes",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Buddy Badge",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Error Booster",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Charge Bat",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Entrance",
+				"map_locations": [
+					{
+						"map": "baseball_kingdom",
+						"x": 640,
+						"y": 380
+					}
+				],
+				"sections": [
+					{
+						"name": "Play Badge",
+						"item_count": 1,
+						"access_rules": ["$minigames"],
+						"visibility_rules": ["goal_condition_1"]
 					}
 				]
 			}

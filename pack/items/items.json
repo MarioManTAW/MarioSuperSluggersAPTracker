@@ -350,7 +350,6 @@
 	{
 		"name": "Characters",
 		"type": "consumable",
-		"allow_disabled": false,
 		"img": "images/items/buddy.png",
 		"initial_quantity": 0,
 		"min_quantity": 0,
@@ -489,5 +488,58 @@
 		"item_left": "boo",
 		"item_right": "mini_boo",
 		"codes": "mini_boo_boo"
+	},
+	{
+		"name": "Luigi's Flashlight",
+		"type": "toggle",
+		"img": "images/items/luigi_flashlight.png",
+		"codes": "luigi_flashlight"
+	},
+	{
+		"name": "Cruiser Pass",
+		"type": "toggle",
+		"img": "images/items/cruiser_pass.png",
+		"codes": "cruiser_pass"
+	},
+	{
+		"name": "Special Shop Pass",
+		"type": "toggle",
+		"img": "images/items/special_shop_pass.png",
+		"codes": "special_shop_pass"
+	},
+	{
+		"name": "Toy Field Pass",
+		"type": "toggle",
+		"img": "images/items/toy_field_pass.png",
+		"codes": "toy_field_pass"
+	},
+	{
+		"name": "Cruiser Pass/Special Shop Pass",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/__pass.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/cruiser__pass.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/_shop_pass.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/cruiser_shop_pass.png"
+			}
+		],
+		"item_left": "cruiser_pass",
+		"item_right": "special_shop_pass",
+		"codes": "cruiser_shop_pass"
 	}
 ]

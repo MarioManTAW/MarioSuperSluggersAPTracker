@@ -57,10 +57,24 @@ function onClear(slot_data)
 		return
 	end
 
+	if slot_data['goal_condition'] then
+		local goal_condition = Tracker:FindObjectForCode("goal_condition")
+		if goal_condition then
+			goal_condition.CurrentStage = (slot_data['goal_condition'])
+		end
+	end
+
 	if slot_data['goal_characters'] then
 		local goal_characters = Tracker:FindObjectForCode("goal_characters")
 		if goal_characters then
 			goal_characters.AcquiredCount = (slot_data['goal_characters'])
+		end
+	end
+
+	if slot_data['randomize_shops'] then
+		local randomize_shops = Tracker:FindObjectForCode("shops")
+		if randomize_shops then
+			randomize_shops.CurrentStage = (slot_data['randomize_shops'])
 		end
 	end
 end

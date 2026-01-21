@@ -1,5 +1,24 @@
 [
 	{
+		"name": "Goal Condition",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"img": "images/items/bowser_monsters.png",
+				"codes": "goal_condition,goal_condition_0",
+				"inherit_codes": false
+			},
+			{
+				"img": "images/items/play_badge.png",
+				"codes": "goal_condition_1",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
 		"name": "Goal Characters",
 		"type": "consumable",
 		"img": "images/items/buddy.png",
@@ -8,5 +27,29 @@
 		"max_quantity": 58,
 		"increment": 1,
 		"codes": "goal_characters"
+	},
+	{
+		"name": "Randomize Shops",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"img": "images/items/shops_none.png",
+				"codes": "shops,shops_0",
+				"inherit_codes": false
+			},
+			{
+				"img": "images/items/shops_keys.png",
+				"codes": "shops_1",
+				"inherit_codes": true
+			},
+			{
+				"img": "images/items/shops_full.png",
+				"codes": "shops_2",
+				"inherit_codes": true
+			}
+		]
 	}
 ]

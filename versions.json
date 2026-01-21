@@ -1,6 +1,13 @@
 {
 	"versions": [
 		{
+			"package_version": "0.1.0",
+			"download_url": "https://github.com/MarioManTAW/MarioSuperSluggersAPTracker/releases/download/v0.1.0/mss_tracker_0.1.0.zip",
+			"sha256": "fbf37935329c9e23688dda9ef7433ae035f76c89f6564ceae7d47d5f7b288620",
+			"changelog": [
+				"Updated to match APWorld v0.1.0"
+			]
+		},		{
 			"package_version": "0.0.1",
 			"download_url": "https://github.com/MarioManTAW/MarioSuperSluggersAPTracker/releases/download/v0.0.1/mss_tracker_0.0.1.zip",
 			"sha256": "a5f0663b633eb621a75d1aca2194719d85ac47fda98cce46c6421bdf14e07a8d",
