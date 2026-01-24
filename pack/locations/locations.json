@@ -1013,6 +1013,24 @@
 								"item_count": 1,
 								"visibility_rules": ["shops_2"],
 								"access_rules": []
+							},
+							{
+								"name": "Buy Star Candy",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy x2 Star Candy",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
+							},
+							{
+								"name": "Buy Superstar",
+								"item_count": 1,
+								"visibility_rules": ["shops_2"],
+								"access_rules": []
 							}
 						]
 					}

@@ -157,4 +157,7 @@ LOCATION_MAPPING = {
     [0x80E5551401] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy Buddy Badge"},
     [0x80E5551501] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy Error Booster"},
     [0x80E5551601] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy Charge Bat"},
+    [0x80E5551701] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy Star Candy"},
+    [0x80E5551801] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy x2 Star Candy"},
+    [0x80E5551901] = {"@Baseball Kingdom/Daisy Cruiser/Secret shop/Buy Superstar"},
 }
