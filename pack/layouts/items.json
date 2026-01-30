@@ -59,62 +59,91 @@
 						"h_alignment": "left",
 						"rows": [
 							[
-								"blue_yoshi",
-								"light_blue_yoshi",
-								"pink_yoshi",
-								"red_yoshi",
-								"yellow_yoshi",
-								"birdo",
-								"diddy_kong",
-								"waluigi",
-								"baby_mario",
-								"baby_luigi"
+								"mario_star",
+								"luigi_star",
+								"peach_star",
+								"daisy_star",
+								"wario_star",
+								"waluigi_star",
+								"yoshi_star",
+								"blue_yoshi_star",
+								"light_blue_yoshi_star",
+								"pink_yoshi_star"
 							],
 							[
-								"baby_peach",
-								"baby_daisy",
-								"baby_dk",
-								"goomba",
-								"paragoomba",
-								"koopa",
-								"red_koopa",
-								"paratroopa",
-								"green_paratroopa",
-								"red_toad"
+								"red_yoshi_star",
+								"yellow_yoshi_star",
+								"birdo_star",
+								"donkey_kong_star",
+								"diddy_kong_star",
+								"bowser_star",
+								"bowser_jr_star",
+								"baby_mario_star",
+								"baby_luigi_star",
+								"baby_peach_star"
 							],
 							[
-								"blue_toad",
-								"green_toad",
-								"purple_toad",
-								"yellow_toad",
-								"toadette",
-								"toadsworth",
-								"shy_guy",
-								"blue_shy_guy",
-								"gray_shy_guy",
-								"green_shy_guy"
+								"baby_daisy_star",
+								"baby_dk_star",
+								"goomba_star",
+								"paragoomba_star",
+								"koopa_star",
+								"red_koopa_star",
+								"paratroopa_star",
+								"green_paratroopa_star",
+								"hammer_bro_star",
+								"fire_bro_star"
 							],
 							[
-								"yellow_shy_guy",
-								"king_boo",
-								"blue_pianta",
-								"red_pianta",
-								"yellow_pianta",
-								"red_noki",
-								"monty_mole",
-								"blooper",
-								"petey_piranha",
-								"wiggler"
+								"boomerang_bro_star",
+								"red_toad_star",
+								"blue_toad_star",
+								"green_toad_star",
+								"purple_toad_star",
+								"yellow_toad_star",
+								"toadette_star",
+								"toadsworth_star",
+								"shy_guy_star",
+								"blue_shy_guy_star"
 							],
 							[
-								"dixie_kong",
-								"funky_kong",
-								"tiny_kong",
-								"king_k_rool",
-								"kritter",
-								"blue_kritter",
-								"brown_kritter",
-								"red_kritter"
+								"gray_shy_guy_star",
+								"green_shy_guy_star",
+								"yellow_shy_guy_star",
+								"boo_star",
+								"king_boo_star",
+								"blue_pianta_star",
+								"red_pianta_star",
+								"yellow_pianta_star",
+								"blue_noki_star",
+								"green_noki_star"
+							],
+							[
+								"red_noki_star",
+								"dry_bones_star",
+								"blue_dry_bones_star",
+								"green_dry_bones_star",
+								"dark_bones_star",
+								"magikoopa_star",
+								"green_magikoopa_star",
+								"red_magikoopa_star",
+								"yellow_magikoopa_star",
+								"monty_mole_star"
+							],
+							[
+								"blooper_star",
+								"petey_piranha_star",
+								"wiggler_star",
+								"dixie_kong_star",
+								"funky_kong_star",
+								"tiny_kong_star",
+								"king_k_rool_star",
+								"kritter_star",
+								"blue_kritter_star",
+								"brown_kritter_star"
+							],
+							[
+								"red_kritter_star"
 							]
 						]
 					}
@@ -126,7 +155,10 @@
 				"content": {
 					"type": "itemgrid",
 					"item_size": 6,
-					"rows": [["goal_condition", "goal_characters", "shops"]]
+					"rows": [
+						["goal_condition", "goal_characters", "shops"],
+						["randomize_stars"]
+					]
 				}
 			}
 		]

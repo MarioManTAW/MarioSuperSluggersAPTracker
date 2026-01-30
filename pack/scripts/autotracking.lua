@@ -77,6 +77,13 @@ function onClear(slot_data)
 			randomize_shops.CurrentStage = (slot_data['randomize_shops'])
 		end
 	end
+
+	if slot_data['randomize_stars'] then
+		local randomize_stars = Tracker:FindObjectForCode("randomize_stars")
+		if randomize_stars then
+			randomize_stars.Active = (slot_data['randomize_stars'])
+		end
+	end
 end
 
 function onItem(index, item_id, item_name, player_number)
@@ -93,10 +100,83 @@ function onItem(index, item_id, item_name, player_number)
 	end
 
 	local obj = Tracker:FindObjectForCode(v[1])
+	local chars = {
+		["Mario"] = true,
+		["Luigi"] = true,
+		["Donkey Kong"] = true,
+		["Diddy Kong"] = true,
+		["Peach"] = true,
+		["Daisy"] = true,
+		["Yoshi"] = true,
+		["Baby Mario"] = true,
+		["Baby Luigi"] = true,
+		["Bowser"] = true,
+		["Wario"] = true,
+		["Waluigi"] = true,
+		["Koopa"] = true,
+		["Red Toad"] = true,
+		["Boo"] = true,
+		["Toadette"] = true,
+		["Shy Guy"] = true,
+		["Birdo"] = true,
+		["Monty Mole"] = true,
+		["Bowser Jr."] = true,
+		["Paratroopa"] = true,
+		["Blue Pianta"] = true,
+		["Red Pianta"] = true,
+		["Yellow Pianta"] = true,
+		["Blue Noki"] = true,
+		["Red Noki"] = true,
+		["Green Noki"] = true,
+		["Hammer Bro"] = true,
+		["Toadsworth"] = true,
+		["Blue Toad"] = true,
+		["Yellow Toad"] = true,
+		["Green Toad"] = true,
+		["Purple Toad"] = true,
+		["Magikoopa"] = true,
+		["Red Magikoopa"] = true,
+		["Green Magikoopa"] = true,
+		["Yellow Magikoopa"] = true,
+		["King Boo"] = true,
+		["Petey Piranha"] = true,
+		["Dixie Kong"] = true,
+		["Goomba"] = true,
+		["Paragoomba"] = true,
+		["Red Koopa"] = true,
+		["Green Paratroopa"] = true,
+		["Blue Shy Guy"] = true,
+		["Yellow Shy Guy"] = true,
+		["Green Shy Guy"] = true,
+		["Gray Shy Guy"] = true,
+		["Dry Bones"] = true,
+		["Green Dry Bones"] = true,
+		["Dark Bones"] = true,
+		["Blue Dry Bones"] = true,
+		["Fire Bro"] = true,
+		["Boomerang Bro"] = true,
+		["Wiggler"] = true,
+		["Blooper"] = true,
+		["Funky Kong"] = true,
+		["Tiny Kong"] = true,
+		["Kritter"] = true,
+		["Blue Kritter"] = true,
+		["Red Kritter"] = true,
+		["Brown Kritter"] = true,
+		["King K. Rool"] = true,
+		["Baby Peach"] = true,
+		["Baby Daisy"] = true,
+		["Baby DK"] = true,
+		["Red Yoshi"] = true,
+		["Blue Yoshi"] = true,
+		["Yellow Yoshi"] = true,
+		["Light Blue Yoshi"] = true,
+		["Pink Yoshi"] = true,
+	}
 	local c = Tracker:FindObjectForCode("characters")
 	if obj and c then
 		if v[2] == "toggle" then
-			if item_id % 0x100 == 2 and not obj.Active then c.AcquiredCount = c.AcquiredCount + c.Increment end
+			if chars[item_name] and not obj.Active then c.AcquiredCount = c.AcquiredCount + c.Increment end
 			obj.Active = true
 		elseif v[2] == "progressive" then
 			if obj.Active then

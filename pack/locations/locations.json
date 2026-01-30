@@ -934,6 +934,317 @@
 						"item_count": 1,
 						"access_rules": ["day_night"],
 						"visibility_rules": ["goal_condition_0"]
+					},
+					{
+						"name": "Recruit Bowser",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Bowser Jr.",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Hammer Bro",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Fire Bro",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Boomerang Bro",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Magikoopa",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Red Magikoopa",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Green Magikoopa",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Yellow Magikoopa",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Dry Bones",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Green Dry Bones",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Dark Bones",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Recruit Blue Dry Bones",
+						"item_count": 1,
+						"access_rules": ["day_night"]
+					},
+					{
+						"name": "Unlock star for Mario",
+						"item_count": 1,
+						"access_rules": ["day_night,mario"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Luigi",
+						"item_count": 1,
+						"access_rules": ["day_night,luigi"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Donkey Kong",
+						"item_count": 1,
+						"access_rules": ["day_night,donkey_kong"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Diddy Kong",
+						"item_count": 1,
+						"access_rules": ["day_night,diddy_kong"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Peach",
+						"item_count": 1,
+						"access_rules": ["day_night,peach"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Daisy",
+						"item_count": 1,
+						"access_rules": ["day_night,daisy"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Yoshi",
+						"item_count": 1,
+						"access_rules": ["day_night,yoshi","day_night,blue_yoshi","day_night,light_blue_yoshi","day_night,pink_yoshi","day_night,red_yoshi","day_night,yellow_yoshi"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Baby Mario",
+						"item_count": 1,
+						"access_rules": ["day_night,baby_mario"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Baby Luigi",
+						"item_count": 1,
+						"access_rules": ["day_night,baby_luigi"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Bowser",
+						"item_count": 1,
+						"access_rules": ["day_night"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Wario",
+						"item_count": 1,
+						"access_rules": ["day_night,wario"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Waluigi",
+						"item_count": 1,
+						"access_rules": ["day_night,waluigi"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Koopa",
+						"item_count": 1,
+						"access_rules": ["day_night,koopa","day_night,red_koopa"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Toad",
+						"item_count": 1,
+						"access_rules": ["day_night,red_toad","day_night,blue_toad","day_night,green_toad","day_night,purple_toad","day_night,yellow_toad"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Boo",
+						"item_count": 1,
+						"access_rules": ["day_night,boo"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Toadette",
+						"item_count": 1,
+						"access_rules": ["day_night,toadette"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Shy Guy",
+						"item_count": 1,
+						"access_rules": ["day_night,shy_guy","day_night,blue_shy_guy","day_night,gray_shy_guy","day_night,green_shy_guy","day_night,yellow_shy_guy"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Birdo",
+						"item_count": 1,
+						"access_rules": ["day_night,birdo"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Monty Mole",
+						"item_count": 1,
+						"access_rules": ["day_night,monty_mole"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Bowser Jr.",
+						"item_count": 1,
+						"access_rules": ["day_night"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Paratroopa",
+						"item_count": 1,
+						"access_rules": ["day_night,paratroopa","day_night,green_paratroopa"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Pianta",
+						"item_count": 1,
+						"access_rules": ["day_night,blue_pianta","day_night,red_pianta","day_night,yellow_pianta"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Noki",
+						"item_count": 1,
+						"access_rules": ["day_night,blue_noki","day_night,green_noki","day_night,red_noki"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Hammer Bro",
+						"item_count": 1,
+						"access_rules": ["day_night"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Toadsworth",
+						"item_count": 1,
+						"access_rules": ["day_night,toadsworth"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Magikoopa",
+						"item_count": 1,
+						"access_rules": ["day_night"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for King Boo",
+						"item_count": 1,
+						"access_rules": ["day_night,king_boo"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Petey Piranha",
+						"item_count": 1,
+						"access_rules": ["day_night,petey_piranha"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Dixie Kong",
+						"item_count": 1,
+						"access_rules": ["day_night,dixie_kong"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Goomba",
+						"item_count": 1,
+						"access_rules": ["day_night,goomba"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Paragoomba",
+						"item_count": 1,
+						"access_rules": ["day_night,paragoomba"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Dry Bones",
+						"item_count": 1,
+						"access_rules": ["day_night"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Wiggler",
+						"item_count": 1,
+						"access_rules": ["day_night,wiggler"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Blooper",
+						"item_count": 1,
+						"access_rules": ["day_night,blooper"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Funky Kong",
+						"item_count": 1,
+						"access_rules": ["day_night,funky_kong"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Tiny Kong",
+						"item_count": 1,
+						"access_rules": ["day_night,tiny_kong"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Kritter",
+						"item_count": 1,
+						"access_rules": ["day_night,kritter","day_night,blue_kritter","day_night,brown_kritter","day_night,red_kritter"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for King K. Rool",
+						"item_count": 1,
+						"access_rules": ["day_night,king_k_rool"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Baby Peach",
+						"item_count": 1,
+						"access_rules": ["day_night,baby_peach"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Baby Daisy",
+						"item_count": 1,
+						"access_rules": ["day_night,baby_daisy"],
+						"visibility_rules": ["randomize_stars"]
+					},
+					{
+						"name": "Unlock star for Baby DK",
+						"item_count": 1,
+						"access_rules": ["day_night,baby_dk"],
+						"visibility_rules": ["randomize_stars"]
 					}
 				]
 			},
@@ -1051,6 +1362,18 @@
 						"item_count": 1,
 						"access_rules": ["$minigames"],
 						"visibility_rules": ["goal_condition_1"]
+					},
+					{
+						"name": "Friend Badge",
+						"item_count": 1,
+						"access_rules": ["$friends"],
+						"visibility_rules": ["goal_condition_2"]
+					},
+					{
+						"name": "Star Badge",
+						"item_count": 1,
+						"access_rules": ["$stars"],
+						"visibility_rules": ["goal_condition_3"]
 					}
 				]
 			}

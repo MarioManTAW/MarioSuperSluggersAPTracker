@@ -348,12 +348,2354 @@
 		"codes": "red_kritter"
 	},
 	{
+		"name": "Bowser",
+		"type": "toggle",
+		"img": "images/items/bowser.png",
+		"codes": "bowser"
+	},
+	{
+		"name": "Bowser Jr.",
+		"type": "toggle",
+		"img": "images/items/bowser_jr.png",
+		"codes": "bowser_jr"
+	},
+	{
+		"name": "Hammer Bro",
+		"type": "toggle",
+		"img": "images/items/hammer_bro.png",
+		"codes": "hammer_bro"
+	},
+	{
+		"name": "Magikoopa",
+		"type": "toggle",
+		"img": "images/items/magikoopa.png",
+		"codes": "magikoopa"
+	},
+	{
+		"name": "Red Magikoopa",
+		"type": "toggle",
+		"img": "images/items/red_magikoopa.png",
+		"codes": "red_magikoopa"
+	},
+	{
+		"name": "Green Magikoopa",
+		"type": "toggle",
+		"img": "images/items/green_magikoopa.png",
+		"codes": "green_magikoopa"
+	},
+	{
+		"name": "Yellow Magikoopa",
+		"type": "toggle",
+		"img": "images/items/yellow_magikoopa.png",
+		"codes": "yellow_magikoopa"
+	},
+	{
+		"name": "Dry Bones",
+		"type": "toggle",
+		"img": "images/items/dry_bones.png",
+		"codes": "dry_bones"
+	},
+	{
+		"name": "Green Dry Bones",
+		"type": "toggle",
+		"img": "images/items/green_dry_bones.png",
+		"codes": "green_dry_bones"
+	},
+	{
+		"name": "Dark Bones",
+		"type": "toggle",
+		"img": "images/items/dark_bones.png",
+		"codes": "dark_bones"
+	},
+	{
+		"name": "Blue Dry Bones",
+		"type": "toggle",
+		"img": "images/items/blue_dry_bones.png",
+		"codes": "blue_dry_bones"
+	},
+	{
+		"name": "Fire Bro",
+		"type": "toggle",
+		"img": "images/items/fire_bro.png",
+		"codes": "fire_bro"
+	},
+	{
+		"name": "Boomerang Bro",
+		"type": "toggle",
+		"img": "images/items/boomerang_bro.png",
+		"codes": "boomerang_bro"
+	},
+	{
+		"name": "Star for Mario",
+		"type": "toggle",
+		"codes": "star_mario"
+	},
+	{
+		"name": "Star for Peach",
+		"type": "toggle",
+		"codes": "star_peach"
+	},
+	{
+		"name": "Star for Yoshi",
+		"type": "toggle",
+		"codes": "star_yoshi"
+	},
+	{
+		"name": "Star for Donkey Kong",
+		"type": "toggle",
+		"codes": "star_donkey_kong"
+	},
+	{
+		"name": "Star for Wario",
+		"type": "toggle",
+		"codes": "star_wario"
+	},
+	{
+		"name": "Star for Luigi",
+		"type": "toggle",
+		"codes": "star_luigi"
+	},
+	{
+		"name": "Star for Daisy",
+		"type": "toggle",
+		"codes": "star_daisy"
+	},
+	{
+		"name": "Star for Birdo",
+		"type": "toggle",
+		"codes": "star_birdo"
+	},
+	{
+		"name": "Star for Diddy Kong",
+		"type": "toggle",
+		"codes": "star_diddy_kong"
+	},
+	{
+		"name": "Star for Waluigi",
+		"type": "toggle",
+		"codes": "star_waluigi"
+	},
+	{
+		"name": "Star for Baby Mario",
+		"type": "toggle",
+		"codes": "star_baby_mario"
+	},
+	{
+		"name": "Star for Baby Luigi",
+		"type": "toggle",
+		"codes": "star_baby_luigi"
+	},
+	{
+		"name": "Star for Baby Peach",
+		"type": "toggle",
+		"codes": "star_baby_peach"
+	},
+	{
+		"name": "Star for Baby Daisy",
+		"type": "toggle",
+		"codes": "star_baby_daisy"
+	},
+	{
+		"name": "Star for Baby DK",
+		"type": "toggle",
+		"codes": "star_baby_dk"
+	},
+	{
+		"name": "Star for Goomba",
+		"type": "toggle",
+		"codes": "star_goomba"
+	},
+	{
+		"name": "Star for Paragoomba",
+		"type": "toggle",
+		"codes": "star_paragoomba"
+	},
+	{
+		"name": "Star for Koopa",
+		"type": "toggle",
+		"codes": "star_koopa"
+	},
+	{
+		"name": "Star for Paratroopa",
+		"type": "toggle",
+		"codes": "star_paratroopa"
+	},
+	{
+		"name": "Star for Toad",
+		"type": "toggle",
+		"codes": "star_toad"
+	},
+	{
+		"name": "Star for Toadette",
+		"type": "toggle",
+		"codes": "star_toadette"
+	},
+	{
+		"name": "Star for Toadsworth",
+		"type": "toggle",
+		"codes": "star_toadsworth"
+	},
+	{
+		"name": "Star for Shy Guy",
+		"type": "toggle",
+		"codes": "star_shy_guy"
+	},
+	{
+		"name": "Star for Boo",
+		"type": "toggle",
+		"codes": "star_boo"
+	},
+	{
+		"name": "Star for King Boo",
+		"type": "toggle",
+		"codes": "star_king_boo"
+	},
+	{
+		"name": "Star for Pianta",
+		"type": "toggle",
+		"codes": "star_pianta"
+	},
+	{
+		"name": "Star for Noki",
+		"type": "toggle",
+		"codes": "star_noki"
+	},
+	{
+		"name": "Star for Monty Mole",
+		"type": "toggle",
+		"codes": "star_monty_mole"
+	},
+	{
+		"name": "Star for Blooper",
+		"type": "toggle",
+		"codes": "star_blooper"
+	},
+	{
+		"name": "Star for Petey Piranha",
+		"type": "toggle",
+		"codes": "star_petey_piranha"
+	},
+	{
+		"name": "Star for Wiggler",
+		"type": "toggle",
+		"codes": "star_wiggler"
+	},
+	{
+		"name": "Star for Dixie Kong",
+		"type": "toggle",
+		"codes": "star_dixie_kong"
+	},
+	{
+		"name": "Star for Funky Kong",
+		"type": "toggle",
+		"codes": "star_funky_kong"
+	},
+	{
+		"name": "Star for Tiny Kong",
+		"type": "toggle",
+		"codes": "star_tiny_kong"
+	},
+	{
+		"name": "Star for King K. Rool",
+		"type": "toggle",
+		"codes": "star_king_k_rool"
+	},
+	{
+		"name": "Star for Kritter",
+		"type": "toggle",
+		"codes": "star_kritter"
+	},
+	{
+		"name": "Star for Bowser",
+		"type": "toggle",
+		"codes": "star_bowser"
+	},
+	{
+		"name": "Star for Bowser Jr.",
+		"type": "toggle",
+		"codes": "star_bowser_jr"
+	},
+	{
+		"name": "Star for Hammer Bro",
+		"type": "toggle",
+		"codes": "star_hammer_bro"
+	},
+	{
+		"name": "Star for Magikoopa",
+		"type": "toggle",
+		"codes": "star_magikoopa"
+	},
+	{
+		"name": "Star for Dry Bones",
+		"type": "toggle",
+		"codes": "star_dry_bones"
+	},
+	{
+		"name": "Mario",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_mario_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/mario_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_mario_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/mario_star.png"
+			}
+		],
+		"item_left": "mario",
+		"item_right": "star_mario",
+		"codes": "mario_star"
+	},
+	{
+		"name": "Peach",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_peach_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/peach_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_peach_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/peach_star.png"
+			}
+		],
+		"item_left": "peach",
+		"item_right": "star_peach",
+		"codes": "peach_star"
+	},
+	{
+		"name": "Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yoshi_star.png"
+			}
+		],
+		"item_left": "yoshi",
+		"item_right": "star_yoshi",
+		"codes": "yoshi_star"
+	},
+	{
+		"name": "Donkey Kong",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_donkey_kong_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/donkey_kong_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_donkey_kong_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/donkey_kong_star.png"
+			}
+		],
+		"item_left": "donkey_kong",
+		"item_right": "star_donkey_kong",
+		"codes": "donkey_kong_star"
+	},
+	{
+		"name": "Wario",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_wario_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/wario_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_wario_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/wario_star.png"
+			}
+		],
+		"item_left": "wario",
+		"item_right": "star_wario",
+		"codes": "wario_star"
+	},
+	{
+		"name": "Luigi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_luigi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/luigi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_luigi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/luigi_star.png"
+			}
+		],
+		"item_left": "luigi",
+		"item_right": "star_luigi",
+		"codes": "luigi_star"
+	},
+	{
+		"name": "Daisy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_daisy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/daisy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_daisy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/daisy_star.png"
+			}
+		],
+		"item_left": "daisy",
+		"item_right": "star_daisy",
+		"codes": "daisy_star"
+	},
+	{
+		"name": "Blue Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_yoshi_star.png"
+			}
+		],
+		"item_left": "blue_yoshi",
+		"item_right": "star_yoshi",
+		"codes": "blue_yoshi_star"
+	},
+	{
+		"name": "Light Blue Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_light_blue_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/light_blue_yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_light_blue_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/light_blue_yoshi_star.png"
+			}
+		],
+		"item_left": "light_blue_yoshi",
+		"item_right": "star_yoshi",
+		"codes": "light_blue_yoshi_star"
+	},
+	{
+		"name": "Pink Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_pink_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/pink_yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_pink_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/pink_yoshi_star.png"
+			}
+		],
+		"item_left": "pink_yoshi",
+		"item_right": "star_yoshi",
+		"codes": "pink_yoshi_star"
+	},
+	{
+		"name": "Red Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_yoshi_star.png"
+			}
+		],
+		"item_left": "red_yoshi",
+		"item_right": "star_yoshi",
+		"codes": "red_yoshi_star"
+	},
+	{
+		"name": "Yellow Yoshi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yellow_yoshi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yellow_yoshi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yellow_yoshi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yellow_yoshi_star.png"
+			}
+		],
+		"item_left": "yellow_yoshi",
+		"item_right": "star_yoshi",
+		"codes": "yellow_yoshi_star"
+	},
+	{
+		"name": "Birdo",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_birdo_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/birdo_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_birdo_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/birdo_star.png"
+			}
+		],
+		"item_left": "birdo",
+		"item_right": "star_birdo",
+		"codes": "birdo_star"
+	},
+	{
+		"name": "Diddy Kong",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_diddy_kong_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/diddy_kong_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_diddy_kong_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/diddy_kong_star.png"
+			}
+		],
+		"item_left": "diddy_kong",
+		"item_right": "star_diddy_kong",
+		"codes": "diddy_kong_star"
+	},
+	{
+		"name": "Waluigi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_waluigi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/waluigi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_waluigi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/waluigi_star.png"
+			}
+		],
+		"item_left": "waluigi",
+		"item_right": "star_waluigi",
+		"codes": "waluigi_star"
+	},
+	{
+		"name": "Baby Mario",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_baby_mario_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/baby_mario_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_baby_mario_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/baby_mario_star.png"
+			}
+		],
+		"item_left": "baby_mario",
+		"item_right": "star_baby_mario",
+		"codes": "baby_mario_star"
+	},
+	{
+		"name": "Baby Luigi",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_baby_luigi_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/baby_luigi_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_baby_luigi_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/baby_luigi_star.png"
+			}
+		],
+		"item_left": "baby_luigi",
+		"item_right": "star_baby_luigi",
+		"codes": "baby_luigi_star"
+	},
+	{
+		"name": "Baby Peach",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_baby_peach_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/baby_peach_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_baby_peach_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/baby_peach_star.png"
+			}
+		],
+		"item_left": "baby_peach",
+		"item_right": "star_baby_peach",
+		"codes": "baby_peach_star"
+	},
+	{
+		"name": "Baby Daisy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_baby_daisy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/baby_daisy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_baby_daisy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/baby_daisy_star.png"
+			}
+		],
+		"item_left": "baby_daisy",
+		"item_right": "star_baby_daisy",
+		"codes": "baby_daisy_star"
+	},
+	{
+		"name": "Baby DK",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_baby_dk_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/baby_dk_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_baby_dk_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/baby_dk_star.png"
+			}
+		],
+		"item_left": "baby_dk",
+		"item_right": "star_baby_dk",
+		"codes": "baby_dk_star"
+	},
+	{
+		"name": "Goomba",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_goomba_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/goomba_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_goomba_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/goomba_star.png"
+			}
+		],
+		"item_left": "goomba",
+		"item_right": "star_goomba",
+		"codes": "goomba_star"
+	},
+	{
+		"name": "Paragoomba",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_paragoomba_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/paragoomba_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_paragoomba_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/paragoomba_star.png"
+			}
+		],
+		"item_left": "paragoomba",
+		"item_right": "star_paragoomba",
+		"codes": "paragoomba_star"
+	},
+	{
+		"name": "Koopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_koopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/koopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_koopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/koopa_star.png"
+			}
+		],
+		"item_left": "koopa",
+		"item_right": "star_koopa",
+		"codes": "koopa_star"
+	},
+	{
+		"name": "Red Koopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_koopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_koopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_koopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_koopa_star.png"
+			}
+		],
+		"item_left": "red_koopa",
+		"item_right": "star_koopa",
+		"codes": "red_koopa_star"
+	},
+	{
+		"name": "Paratroopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_paratroopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/paratroopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_paratroopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/paratroopa_star.png"
+			}
+		],
+		"item_left": "paratroopa",
+		"item_right": "star_paratroopa",
+		"codes": "paratroopa_star"
+	},
+	{
+		"name": "Green Paratroopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_paratroopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_paratroopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_paratroopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_paratroopa_star.png"
+			}
+		],
+		"item_left": "green_paratroopa",
+		"item_right": "star_paratroopa",
+		"codes": "green_paratroopa_star"
+	},
+	{
+		"name": "Red Toad",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_toad_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_toad_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_toad_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_toad_star.png"
+			}
+		],
+		"item_left": "red_toad",
+		"item_right": "star_toad",
+		"codes": "red_toad_star"
+	},
+	{
+		"name": "Blue Toad",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_toad_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_toad_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_toad_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_toad_star.png"
+			}
+		],
+		"item_left": "blue_toad",
+		"item_right": "star_toad",
+		"codes": "blue_toad_star"
+	},
+	{
+		"name": "Green Toad",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_toad_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_toad_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_toad_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_toad_star.png"
+			}
+		],
+		"item_left": "green_toad",
+		"item_right": "star_toad",
+		"codes": "green_toad_star"
+	},
+	{
+		"name": "Purple Toad",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_purple_toad_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/purple_toad_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_purple_toad_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/purple_toad_star.png"
+			}
+		],
+		"item_left": "purple_toad",
+		"item_right": "star_toad",
+		"codes": "purple_toad_star"
+	},
+	{
+		"name": "Yellow Toad",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yellow_toad_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yellow_toad_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yellow_toad_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yellow_toad_star.png"
+			}
+		],
+		"item_left": "yellow_toad",
+		"item_right": "star_toad",
+		"codes": "yellow_toad_star"
+	},
+	{
+		"name": "Toadette",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_toadette_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/toadette_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_toadette_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/toadette_star.png"
+			}
+		],
+		"item_left": "toadette",
+		"item_right": "star_toadette",
+		"codes": "toadette_star"
+	},
+	{
+		"name": "Toadsworth",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_toadsworth_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/toadsworth_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_toadsworth_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/toadsworth_star.png"
+			}
+		],
+		"item_left": "toadsworth",
+		"item_right": "star_toadsworth",
+		"codes": "toadsworth_star"
+	},
+	{
+		"name": "Shy Guy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_shy_guy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/shy_guy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_shy_guy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/shy_guy_star.png"
+			}
+		],
+		"item_left": "shy_guy",
+		"item_right": "star_shy_guy",
+		"codes": "shy_guy_star"
+	},
+	{
+		"name": "Blue Shy Guy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_shy_guy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_shy_guy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_shy_guy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_shy_guy_star.png"
+			}
+		],
+		"item_left": "blue_shy_guy",
+		"item_right": "star_shy_guy",
+		"codes": "blue_shy_guy_star"
+	},
+	{
+		"name": "Gray Shy Guy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_gray_shy_guy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/gray_shy_guy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_gray_shy_guy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/gray_shy_guy_star.png"
+			}
+		],
+		"item_left": "gray_shy_guy",
+		"item_right": "star_shy_guy",
+		"codes": "gray_shy_guy_star"
+	},
+	{
+		"name": "Green Shy Guy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_shy_guy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_shy_guy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_shy_guy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_shy_guy_star.png"
+			}
+		],
+		"item_left": "green_shy_guy",
+		"item_right": "star_shy_guy",
+		"codes": "green_shy_guy_star"
+	},
+	{
+		"name": "Yellow Shy Guy",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yellow_shy_guy_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yellow_shy_guy_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yellow_shy_guy_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yellow_shy_guy_star.png"
+			}
+		],
+		"item_left": "yellow_shy_guy",
+		"item_right": "star_shy_guy",
+		"codes": "yellow_shy_guy_star"
+	},
+	{
+		"name": "Boo",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_boo_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/boo_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_boo_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/boo_star.png"
+			}
+		],
+		"item_left": "boo",
+		"item_right": "star_boo",
+		"codes": "boo_star"
+	},
+	{
+		"name": "King Boo",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_king_boo_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/king_boo_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_king_boo_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/king_boo_star.png"
+			}
+		],
+		"item_left": "king_boo",
+		"item_right": "star_king_boo",
+		"codes": "king_boo_star"
+	},
+	{
+		"name": "Blue Pianta",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_pianta_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_pianta_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_pianta_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_pianta_star.png"
+			}
+		],
+		"item_left": "blue_pianta",
+		"item_right": "star_pianta",
+		"codes": "blue_pianta_star"
+	},
+	{
+		"name": "Red Pianta",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_pianta_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_pianta_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_pianta_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_pianta_star.png"
+			}
+		],
+		"item_left": "red_pianta",
+		"item_right": "star_pianta",
+		"codes": "red_pianta_star"
+	},
+	{
+		"name": "Yellow Pianta",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yellow_pianta_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yellow_pianta_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yellow_pianta_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yellow_pianta_star.png"
+			}
+		],
+		"item_left": "yellow_pianta",
+		"item_right": "star_pianta",
+		"codes": "yellow_pianta_star"
+	},
+	{
+		"name": "Blue Noki",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_noki_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_noki_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_noki_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_noki_star.png"
+			}
+		],
+		"item_left": "blue_noki",
+		"item_right": "star_noki",
+		"codes": "blue_noki_star"
+	},
+	{
+		"name": "Green Noki",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_noki_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_noki_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_noki_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_noki_star.png"
+			}
+		],
+		"item_left": "green_noki",
+		"item_right": "star_noki",
+		"codes": "green_noki_star"
+	},
+	{
+		"name": "Red Noki",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_noki_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_noki_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_noki_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_noki_star.png"
+			}
+		],
+		"item_left": "red_noki",
+		"item_right": "star_noki",
+		"codes": "red_noki_star"
+	},
+	{
+		"name": "Monty Mole",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_monty_mole_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/monty_mole_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_monty_mole_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/monty_mole_star.png"
+			}
+		],
+		"item_left": "monty_mole",
+		"item_right": "star_monty_mole",
+		"codes": "monty_mole_star"
+	},
+	{
+		"name": "Blooper",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blooper_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blooper_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blooper_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blooper_star.png"
+			}
+		],
+		"item_left": "blooper",
+		"item_right": "star_blooper",
+		"codes": "blooper_star"
+	},
+	{
+		"name": "Petey Piranha",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_petey_piranha_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/petey_piranha_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_petey_piranha_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/petey_piranha_star.png"
+			}
+		],
+		"item_left": "petey_piranha",
+		"item_right": "star_petey_piranha",
+		"codes": "petey_piranha_star"
+	},
+	{
+		"name": "Wiggler",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_wiggler_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/wiggler_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_wiggler_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/wiggler_star.png"
+			}
+		],
+		"item_left": "wiggler",
+		"item_right": "star_wiggler",
+		"codes": "wiggler_star"
+	},
+	{
+		"name": "Dixie Kong",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_dixie_kong_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/dixie_kong_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_dixie_kong_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/dixie_kong_star.png"
+			}
+		],
+		"item_left": "dixie_kong",
+		"item_right": "star_dixie_kong",
+		"codes": "dixie_kong_star"
+	},
+	{
+		"name": "Funky Kong",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_funky_kong_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/funky_kong_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_funky_kong_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/funky_kong_star.png"
+			}
+		],
+		"item_left": "funky_kong",
+		"item_right": "star_funky_kong",
+		"codes": "funky_kong_star"
+	},
+	{
+		"name": "Tiny Kong",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_tiny_kong_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/tiny_kong_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_tiny_kong_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/tiny_kong_star.png"
+			}
+		],
+		"item_left": "tiny_kong",
+		"item_right": "star_tiny_kong",
+		"codes": "tiny_kong_star"
+	},
+	{
+		"name": "King K. Rool",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_king_k_rool_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/king_k_rool_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_king_k_rool_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/king_k_rool_star.png"
+			}
+		],
+		"item_left": "king_k_rool",
+		"item_right": "star_king_k_rool",
+		"codes": "king_k_rool_star"
+	},
+	{
+		"name": "Kritter",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_kritter_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/kritter_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_kritter_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/kritter_star.png"
+			}
+		],
+		"item_left": "kritter",
+		"item_right": "star_kritter",
+		"codes": "kritter_star"
+	},
+	{
+		"name": "Blue Kritter",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_kritter_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_kritter_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_kritter_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_kritter_star.png"
+			}
+		],
+		"item_left": "blue_kritter",
+		"item_right": "star_kritter",
+		"codes": "blue_kritter_star"
+	},
+	{
+		"name": "Brown Kritter",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_brown_kritter_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/brown_kritter_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_brown_kritter_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/brown_kritter_star.png"
+			}
+		],
+		"item_left": "brown_kritter",
+		"item_right": "star_kritter",
+		"codes": "brown_kritter_star"
+	},
+	{
+		"name": "Red Kritter",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_kritter_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_kritter_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_kritter_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_kritter_star.png"
+			}
+		],
+		"item_left": "red_kritter",
+		"item_right": "star_kritter",
+		"codes": "red_kritter_star"
+	},
+	{
+		"name": "Bowser",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_bowser_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/bowser_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_bowser_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/bowser_star.png"
+			}
+		],
+		"item_left": "bowser",
+		"item_right": "star_bowser",
+		"codes": "bowser_star"
+	},
+	{
+		"name": "Bowser Jr.",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_bowser_jr_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/bowser_jr_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_bowser_jr_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/bowser_jr_star.png"
+			}
+		],
+		"item_left": "bowser_jr",
+		"item_right": "star_bowser_jr",
+		"codes": "bowser_jr_star"
+	},
+	{
+		"name": "Hammer Bro",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_hammer_bro_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/hammer_bro_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_hammer_bro_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/hammer_bro_star.png"
+			}
+		],
+		"item_left": "hammer_bro",
+		"item_right": "star_hammer_bro",
+		"codes": "hammer_bro_star"
+	},
+	{
+		"name": "Magikoopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_magikoopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/magikoopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_magikoopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/magikoopa_star.png"
+			}
+		],
+		"item_left": "magikoopa",
+		"item_right": "star_magikoopa",
+		"codes": "magikoopa_star"
+	},
+	{
+		"name": "Red Magikoopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_red_magikoopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/red_magikoopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_red_magikoopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/red_magikoopa_star.png"
+			}
+		],
+		"item_left": "red_magikoopa",
+		"item_right": "star_magikoopa",
+		"codes": "red_magikoopa_star"
+	},
+	{
+		"name": "Green Magikoopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_magikoopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_magikoopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_magikoopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_magikoopa_star.png"
+			}
+		],
+		"item_left": "green_magikoopa",
+		"item_right": "star_magikoopa",
+		"codes": "green_magikoopa_star"
+	},
+	{
+		"name": "Yellow Magikoopa",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_yellow_magikoopa_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/yellow_magikoopa_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_yellow_magikoopa_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/yellow_magikoopa_star.png"
+			}
+		],
+		"item_left": "yellow_magikoopa",
+		"item_right": "star_magikoopa",
+		"codes": "yellow_magikoopa_star"
+	},
+	{
+		"name": "Dry Bones",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_dry_bones_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/dry_bones_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_dry_bones_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/dry_bones_star.png"
+			}
+		],
+		"item_left": "dry_bones",
+		"item_right": "star_dry_bones",
+		"codes": "dry_bones_star"
+	},
+	{
+		"name": "Green Dry Bones",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_green_dry_bones_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/green_dry_bones_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_green_dry_bones_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/green_dry_bones_star.png"
+			}
+		],
+		"item_left": "green_dry_bones",
+		"item_right": "star_dry_bones",
+		"codes": "green_dry_bones_star"
+	},
+	{
+		"name": "Dark Bones",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_dark_bones_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/dark_bones_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_dark_bones_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/dark_bones_star.png"
+			}
+		],
+		"item_left": "dark_bones",
+		"item_right": "star_dry_bones",
+		"codes": "dark_bones_star"
+	},
+	{
+		"name": "Blue Dry Bones",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_blue_dry_bones_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/blue_dry_bones_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_blue_dry_bones_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/blue_dry_bones_star.png"
+			}
+		],
+		"item_left": "blue_dry_bones",
+		"item_right": "star_dry_bones",
+		"codes": "blue_dry_bones_star"
+	},
+	{
+		"name": "Fire Bro",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_fire_bro_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/fire_bro_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_fire_bro_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/fire_bro_star.png"
+			}
+		],
+		"item_left": "fire_bro",
+		"item_right": "star_hammer_bro",
+		"codes": "fire_bro_star"
+	},
+	{
+		"name": "Boomerang Bro",
+		"type": "composite_toggle",
+		"images": [
+			{
+				"left": false,
+				"right": false,
+				"img": "images/items/no_boomerang_bro_no_star.png"
+			},
+			{
+				"left": true,
+				"right": false,
+				"img": "images/items/boomerang_bro_no_star.png"
+			},
+			{
+				"left": false,
+				"right": true,
+				"img": "images/items/no_boomerang_bro_star.png"
+			},
+			{
+				"left": true,
+				"right": true,
+				"img": "images/items/boomerang_bro_star.png"
+			}
+		],
+		"item_left": "boomerang_bro",
+		"item_right": "star_hammer_bro",
+		"codes": "boomerang_bro_star"
+	},
+	{
 		"name": "Characters",
 		"type": "consumable",
-		"img": "images/items/buddy.png",
+		"img": "images/items/bowser_monsters.png",
 		"initial_quantity": 0,
 		"min_quantity": 0,
-		"max_quantity": 58,
+		"max_quantity": 71,
 		"increment": 1,
 		"codes": "characters"
 	},

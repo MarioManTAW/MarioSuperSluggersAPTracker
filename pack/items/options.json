@@ -15,13 +15,23 @@
 				"img": "images/items/play_badge.png",
 				"codes": "goal_condition_1",
 				"inherit_codes": false
+			},
+			{
+				"img": "images/items/friend_badge.png",
+				"codes": "goal_condition_2",
+				"inherit_codes": false
+			},
+			{
+				"img": "images/items/star_badge.png",
+				"codes": "goal_condition_3",
+				"inherit_codes": false
 			}
 		]
 	},
 	{
 		"name": "Goal Characters",
 		"type": "consumable",
-		"img": "images/items/buddy.png",
+		"img": "images/items/bowser_monsters.png",
 		"initial_quantity": 30,
 		"min_quantity": 9,
 		"max_quantity": 58,
@@ -51,5 +61,11 @@
 				"inherit_codes": true
 			}
 		]
+	},
+	{
+		"name": "Randomize Stars",
+		"type": "toggle",
+		"img": "images/items/star.png",
+		"codes": "randomize_stars"
 	}
 ]
