@@ -656,12 +656,12 @@
 					{
 						"name": "Recruit Red Koopa",
 						"item_count": 1,
-						"access_rules": ["donkey_kong"]
+						"access_rules": ["wario"]
 					},
 					{
 						"name": "Recruit Koopa",
 						"item_count": 1,
-						"access_rules": ["donkey_kong,peach"]
+						"access_rules": ["wario,peach"]
 					},
 					{
 						"name": "Recruit Boo",
@@ -681,7 +681,7 @@
 					{
 						"name": "Recruit King Boo",
 						"item_count": 1,
-						"access_rules": ["donkey_kong,boo,mini_boo"]
+						"access_rules": ["wario,boo,mini_boo"]
 					}
 				],
 				"children": [

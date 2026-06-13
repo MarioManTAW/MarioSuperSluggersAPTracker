@@ -15,13 +15,11 @@ end
 
 function count_minigames()
 	local night = Tracker:FindObjectForCode("day_night").Active
-	local mario = Tracker:FindObjectForCode("blue_noki").Active and
-		Tracker:FindObjectForCode("green_noki").Active and night
+	local mario = Tracker:FindObjectForCode("blue_noki").Active and Tracker:FindObjectForCode("green_noki").Active and night
 	local peach = Tracker:FindObjectForCode("daisy_statue").Active and night
-	local wario = Tracker:FindObjectForCode("donkey_kong").Active
-	local dk = wario and Tracker:FindObjectForCode("stone_tablet").CurrentStage == 3
-	local yoshi = Tracker:FindObjectForCode("mario").Active and
-		Tracker:FindObjectForCode("yoshi").Active
+	local wario = Tracker:FindObjectForCode("wario").Active
+	local dk = Tracker:FindObjectForCode("donkey_kong").Active and Tracker:FindObjectForCode("stone_tablet").CurrentStage == 3
+	local yoshi = Tracker:FindObjectForCode("mario").Active and Tracker:FindObjectForCode("yoshi").Active
 	local toy_field = Tracker:FindObjectForCode("toy_field_pass").Active
 	local daisy = Tracker:FindObjectForCode("cruiser_pass").Active
 	local luigi = Tracker:FindObjectForCode("luigi_flashlight").Active and night
